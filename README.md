@@ -18,4 +18,4 @@ The impressive part, I feel, is that this is just the beginning of what AI is ca
 
 I present to you the game "Chicken Scratch" written in Python. 
 
-#Red Pill: Romans 10:8 ESV "because, if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved."
+#Romans 10:8 ESV "because, if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved."
