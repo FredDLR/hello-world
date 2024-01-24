@@ -1,5 +1,5 @@
 
-# Tic Tac Toe
+# Tic Tac Toe game, run using Python
 
 board = [' ' for x in range(10)]
 
