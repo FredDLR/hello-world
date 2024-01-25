@@ -11,7 +11,7 @@ It is a basic Python program I had ChatGPT write for me to play Tic Tac Toe.
 The program is not very impressive in scale, but it is extremely impressive because of what ChatGPT actaully did.
 ChatGPT engineered a program for me!
 
-In the end of 2023, I have used Python to engineer and reverse engineer programs for me, which it does with no problems!
+In the end of 2023, I have used ChatGPT4 to create and explain what programs are doing, which it does with no problems!
 It has created songs which would take hours to create, in seconds. 
 I have used it to explain code and legal documents to me in a way a child could understand.
 The impressive part, I feel, is that this is just the beginning of what AI is capable of doing.
