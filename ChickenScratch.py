@@ -1,5 +1,6 @@
-
-# Tic Tac Toe game, run using Python
+#
+# Basic Tic Tac Toe game, which I call "Chicken Scratch"
+# run in Python
 
 board = [' ' for x in range(10)]
 
