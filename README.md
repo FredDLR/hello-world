@@ -24,8 +24,9 @@ Ideally, I would like to add open source sounds of chickens into the game. Anima
 
 I dare you to listen to the Minecraft song C418's "Sweden", it will haunt your dreams!:https://www.youtube.com/watch?v=aBkTkxKDduc. 
 
-If anyone knows how to add effects to this program, please let me know. If not, then I will return to having copilot heLP me figure out coding. *I have taken a coding class for C++, but I wil admit that I am NOT a coder. I am merely using the tools as I see fit. This is a part of why I am so excited, ANYONE can do this*
+If anyone knows how to add effects to this program, please let me know. If not, then I will return to having copilot help me figure out coding. *I have taken a coding class for C++, but I wil admit that I am NOT a coder. I am merely using the tools as I see fit. This is a part of why I am so excited, ANYONE can do this!*
 
 The Red Pill for today:
+
 #Romans 10:8 ESV "because, if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved."
 #Saved from what? One might ask. I believe from death, the void, meaningless-ness. Earth is a program matrix created by God, controlled by satan. If we beat the game, we make it into heaven. And all it takes is to believe Jesus Christ died on the cross for us. No-thing else will suffice. What a gift!
