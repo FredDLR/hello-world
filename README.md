@@ -18,4 +18,6 @@ The impressive part, I feel, is that this is just the beginning of what AI is ca
 
 I present to you the game "Chicken Scratch" written in Python. 
 
+The Red Pill for today:
 #Romans 10:8 ESV "because, if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved."
+#Saved from what? One might ask. I believe from death, the void, meaningless-ness. Earth is a program matrix created by God, controlled by satan. If we beat the game, we make it into heaven.
