@@ -40,6 +40,3 @@ THE RED PILL:
 Romans 10:9 ESV "If you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved."
 # Saved from what? One might ask. I believe from death, the void, meaningless-ness of life, The Matrix. Earth is a program engineered by God, infiltrated by satan. If we beat the game, we make it into heaven. And all it takes is to believe Jesus Christ died on the cross for us. No-thing else will suffice. What a gift!
 
-James 4:4 KJV "Ye adulterers and adulteresses, know ye not that the friendship of the world is enmity with God? whosoever therefore will be a friend of the world is the enemy of God.
-# I never did like the "Hello World" program, it implies that when you write the program is when you first say hello to the world. When you fell out of your mom's vagina is the first time you said hello to the world.
-
