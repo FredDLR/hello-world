@@ -38,5 +38,5 @@ I dare you to listen to the Minecraft song C418's "Sweden", it will haunt your d
 THE RED PILL: 
 
 Romans 10:9 ESV "If you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved."
-# Saved from what? One might ask. I believe from death, the void, meaningless-ness of life, The Matrix. Earth is a program engineered by God, infiltrated by satan. If we beat the game, we make it into heaven. And all it takes is to believe Jesus Christ died on the cross for us. No-thing else will suffice. What a gift!
+Saved from what? One might ask. I believe from death, the void, meaningless-ness of life, The Matrix. Earth is a program engineered by God, infiltrated by satan. If we beat the game, we make it into heaven. And all it takes is to believe Jesus Christ died on the cross for us. No-thing else will suffice. What a gift!
 
