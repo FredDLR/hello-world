@@ -5,7 +5,7 @@ INTRO:
 My name is Fred D. and I am very excited to have discovered the world of Open Source programming.
 I would like to use Github to contribute to projects and give back to the community, while also learning to build programs myself.
 
-I look forward to meeting you and will do my best to listen to and learn from you all. 
+I look forward to meeting you all, and I will do my best to listen to/learn from you all. 
 Please feel free to message me with any thoughts, concerns, or just to say hello!
 To start, I want to share a rudimentary program I discovered when playing around with ChatGPT.
 It is a basic Python program I had ChatGPT write for me to play Tic Tac Toe. 
