@@ -25,7 +25,7 @@ The TASK:
 
 If anyone knows how to add sound and visual effects to this program, please let me know. If not, then I will return to having copilot help me figure out coding. Ideally, I would like to add open source sounds of chickens into the game. Chicken SCRATCH sounds when one marks an X, and chicken PECK sounds, when one marks an O. I would like to add background chicken noises to make it feel like we are playing this game in a barn.
 
-------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
 
 THE CRAFT:
 
@@ -33,7 +33,12 @@ Animations, sound effects, and music can take a very lack luster program, and tu
 
 I dare you to listen to the Minecraft song C418's "Sweden", it will haunt your dreams!: https://www.youtube.com/watch?v=aBkTkxKDduc. 
 
--------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+
+"This is your last chance. After this, there is no turning back.
+You take the blue pill—the story ends, you wake up in your bed and believe whatever you want to believe.
+You take the red pill—you stay in Wonderland, and I show you how deep the rabbit hole goes."
+------------------------------------------------------------------------------------------------------------------------
 
 THE RED PILL: 
 
